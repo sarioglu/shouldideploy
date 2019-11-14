@@ -1,0 +1,11 @@
+{
+  "name": "shouldideploy",
+  "version": "1.0.0",
+  "description": "Should I deploy?",
+  "repository": "https://github.com/sarioglu/shouldideploy.git",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Mehmet Sarıoğlu <sarioglumeh@gmail.com>",
+  "homepage": "https://github.com/sarioglu/shouldideploy",
+  "license": "MIT"
+}
